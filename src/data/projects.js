@@ -1,47 +1,54 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Papa Johns Machine Learning Model',
+    subtitle: 'Senior Design Project',
+    link: '', // TODO add link
+    image: '/images/projects/papajohnsml.jpg',
+    date: '2022-12-5',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Developed a Multilayer Perceptron (MLP) algorithm to predict Papa Johns\' pizza orders. '
+      + 'Managed the project with tools like Jira and GitHub, processed large datasets for accuracy, '
+      + 'and created comprehensive technical documentation. Organized work using Agile methodologies, '
+      + 'analyzing algorithm performance by calculating accuracy and precision, demonstrating a strong '
+      + 'foundation in machine learning and project management.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'CatHacks IX Best MoonShot Hack',
+    subtitle: 'Awarded at the ACM CatHacks Event',
+    link: 'https://devpost.com/software/planetary-ai-and-learning-system-pals',
+    image: '/images/projects/cathacksix.jpg',
+    date: '2023-04-15',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'The project was awarded based on the impressiveness of technology, design, '
+      + 'completion, learning, and applicability to a real-world issue. '
+      + 'This recognition highlights the exceptional innovation and potential '
+      + 'in addressing real-world problems, underscoring the creativity and hard work '
+      + 'involved in pushing the boundaries of what\'s possible.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Food Ordering Web-App',
+    subtitle: 'Team Development Project',
+    link: '', // TODO add link
+    image: '/images/projects/foodorderingwebapp.jpg',
+    date: '2023-4-26',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Coordinated a team of five in developing a web-based food ordering platform using HTML, CSS, '
+      + 'JavaScript, and Python. Integrated Flask, SQL Alchemy, and SQLite for backend development, '
+      + 'emphasizing features like real-time order display and order status updates. '
+      + 'Focused on pair programming, continuous integration, and code refactoring to enhance scalability and functionality.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Automated Covid-19 Sampling Device',
+    subtitle: 'Innovative Design and Implementation',
+    link: '', // TODO add link
+    image: '/images/projects/covid19samplingdevice.jpg',
+    date: '2021-4-27',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Led a team in designing and implementing an automated device for COVID-19 sampling. '
+      + 'Utilized MATLAB for pipette height detection and integrated vision systems, '
+      + 'alongside CAD for 3D modeling. This project showcases technical versatility and leadership in '
+      + 'combining software development with hardware design to address health-related challenges.',
   },
 ];
 

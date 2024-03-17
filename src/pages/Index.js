@@ -13,17 +13,20 @@ const Index = () => (
         <div className="title">
           <h2><Link to="/">About this site</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            Welcome to my personal website! I&apos;m John Marshall
+            , a senior at the University of Kentucky
+            , deeply engaged in computer science and engineering
+            . This site is my digital portfolio, featuring my resume
+            , projects, some stats just for fun, and contact information—
+            all crafted with a blend of JavaScript and React to showcase my journey and skills.
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+      <p> Welcome to my website. Feel free to discover more <Link to="/about">about me</Link>,
+        explore my <Link to="/resume">resume</Link>,
+        delve into my <Link to="/projects">projects</Link>,
+        check out <Link to="/stats">site statistics</Link>, or
+        <Link to="/contact"> get in touch</Link>.
       </p>
       <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
     </article>
