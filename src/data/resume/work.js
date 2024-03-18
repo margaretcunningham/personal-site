@@ -18,7 +18,7 @@ const work = [
     url: 'https://www.lowes.com/',
     startDate: '2021-06',
     endDate: '2023-06',
-    summary: 'Utilized effective communication skills to assist customers with inquiries and needs, conducted inventory adjustments to optimize stock levels, and operated various types of heavy equipment to replenish products. Leveraged the Lowes tuition reimbursement program to support educational expenses.',
+    summary: 'As a Sales Associate at Lowe’s, I played a key role in enhancing customer satisfaction through direct support, maintaining inventory accuracy, and safely handling products with heavy equipment. My tenure also included personal development through the Lowe’s tuition reimbursement program.',
     highlights: [
       'Leveraged the Lowe’s tuition reimbursement program to support educational expenses.',
       'Utilized effective communication skills to assist customers with inquiries and needs.',
