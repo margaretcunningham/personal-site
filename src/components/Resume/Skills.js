@@ -61,8 +61,8 @@ const Skills = ({ skills, categories }) => {
       <div className="link-to" id="skills" />
       <div className="title">
         <h3>Skills</h3>
-        <p>Note: I think these sections are silly, but everyone seems to have one.
-          Here is a *mostly* honest overview of my skills.
+        <p>Note: The ratings are self-assessed and meant to provide
+          a snapshot of my current skill set, subject to evolve with professional development.
         </p>
       </div>
       <div className="skill-button-container">
