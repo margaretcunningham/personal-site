@@ -5,8 +5,8 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-    + 'VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni.'}
+    description={"John Marshall's personal website"
+    + ''}
   >
     <article className="post" id="index">
       <header>
@@ -28,7 +28,7 @@ const Index = () => (
         check out <Link to="/stats">site statistics</Link>, or
         <Link to="/contact"> get in touch</Link>.
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
+      <p> Source available <a href="https://github.com/JohnWayneMarshall/personal-site">here</a>.</p>
     </article>
   </Main>
 );
