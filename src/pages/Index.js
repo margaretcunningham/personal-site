@@ -13,12 +13,13 @@ const Index = () => (
         <div className="title">
           <h2><Link to="/">About this site</Link></h2>
           <p>
-            Welcome to my personal website! I&apos;m John Marshall
-            , a senior at the University of Kentucky
-            , deeply engaged in computer science and engineering
-            . This site is my digital portfolio, featuring my resume
-            , projects, some stats just for fun, and contact information—
-            all crafted with a blend of JavaScript and React to showcase my journey and skills.
+            Welcome to my personal website! I&apos;m John Marshall,
+            a senior at the University of Kentucky, deeply engaged
+            in computer science and engineering. This site is my
+            digital portfolio, featuring my resume, projects, some
+            stats just for fun, and contact information—all crafted
+            with a blend of JavaScript and React to showcase my
+            journey and skills.
           </p>
         </div>
       </header>
