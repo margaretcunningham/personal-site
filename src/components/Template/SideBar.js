@@ -21,9 +21,9 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m John Marshall, a senior at the
         <a href="https://www.uky.edu/"> University of Kentucky </a>
-        pursuing dual B.S. degrees in Computer Science and Computer Engineering
-        , skilled in Python, C++, and several other programming languages
-        , with a strong foundation in mathematics and diverse technical projects.
+        pursuing dual B.S. degrees in Computer Science and Computer Engineering,
+        skilled in Python, C++, and several other programming languages,
+        with a strong foundation in mathematics and diverse technical projects.
       </p>
       <ul className="actions">
         <li>
