@@ -13,6 +13,11 @@
 		margin: 0 0 _size(section-spacing) 0;
 		position: relative;
 
+		> p {
+			//blue styling
+			color: rgb(0,51,160);
+		}
+
 		> header {
 			@include vendor('display', 'flex');
 			border-bottom: solid 1px _palette(border);
@@ -29,6 +34,13 @@
 				h2 {
 					font-weight: _font(weight-heading-extrabold);
 					font-size: 1.5em;
+					//blue styling
+					color: rgb(0,51,160);
+				}
+
+				> p {
+					//blue styling
+					color: rgb(0,51,160);
 				}
 
 				> :last-child {
@@ -127,6 +139,7 @@
 			border-right: 0;
 			left: _size(section-spacing) * -1;
 			width: calc(100% + (#{_size(section-spacing)} * 2));
+			
 
 			> header {
 				@include vendor('flex-direction', 'column');
@@ -138,6 +151,8 @@
 					margin: 0 0 _size(element-margin) 0;
 					padding: 0;
 					text-align: center;
+					//blue styling
+					color: rgb(0,51,160);
 				}
 
 				.meta {
@@ -199,6 +214,8 @@
 				.title {
 					h2 {
 						font-size: 1.1em;
+						//blue styling
+						color: rgb(0,51,160);
 					}
 				}
 			}

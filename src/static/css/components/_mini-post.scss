@@ -19,7 +19,9 @@
       margin: 0;
       padding: 1.25em;
       background-color: rgba(255,255,255,.7);
-      color: #3c3b3b;
+      //color: #3c3b3b;
+      //blue styling
+      color: rgb(0,51,160);
       font-family: "Raleway", Helvetica, sans-serif;
       z-index: 1000;
       transition: all 0.1s;
@@ -72,6 +74,8 @@
 
     h3 {
       font-size: 0.7em;
+      //blue styling
+      color: rgb(0,51,160);
     }
 
     .published {
@@ -82,6 +86,8 @@
       letter-spacing: _font(kerning-heading);
       margin: -0.625em 0 (_size(element-margin) * 0.85) 0;
       text-transform: uppercase;
+      //blue styling
+      color: rgb(0,51,160);
     }
 
     .author {

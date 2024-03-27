@@ -2,6 +2,13 @@
 
 .skills .title {
 	text-align: center;
+	//blue styling
+	color: rgb(0,51,160);
+
+	>h3 {
+		//blue styling
+		color: rgb(0,51,160);
+	}
 }
 
 .skill-button-container {
@@ -56,6 +63,7 @@
 	-moz-border-radius-bottomleft:3px;
 	border-top-left-radius:3px;
 	border-bottom-left-radius:3px;
+	
 }
 
 .skillbar-title span {

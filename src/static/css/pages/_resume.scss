@@ -11,6 +11,8 @@
 		text-decoration:none;
 		border-bottom: none;
 		display: inline-flex;
+		//blue styling
+		color: rgb(0,51,160);
 
 		a {
 				padding: 0 .5em;
@@ -23,11 +25,20 @@
 		.title {
 			text-align: center;
 			margin-bottom: 2em;
+
+			> h3 {
+				//blue styling
+				color: rgb(0,51,160);
+			}
 		}
 	}
 	.experience {
 		.title {
 			text-align: center;
+			> h3 {
+				//blue styling
+				color: rgb(0,51,160);
+			}
 		}
 		.job {
 			margin: 1em;
@@ -43,7 +54,19 @@
 				margin: 0;
 				padding: 0;
 					font-size: .9em;
+					//blue styling
+			color: rgb(0,51,160);
 			}
+		}
+
+		> span {
+			//blue styling
+			color: rgb(0,51,160);
+		}
+
+		> header > h4 {
+			//blue styling
+			color: rgb(0,51,160);
 		}
 	}
 
@@ -51,6 +74,10 @@
 		padding-top: 1.6em;
 		.title {
 			text-align: center;
+			> h3 {
+				//blue styling
+				color: rgb(0,51,160);
+			}
 		}
 		.course-list {
 			text-align: center;
@@ -86,6 +113,8 @@
 
 .daterange {
 	margin-bottom: .2em;
+	//blue styling
+	color: rgb(0,51,160);
 }
 
 .degree-container {
@@ -98,17 +127,23 @@
 		text-transform: none;
 		letter-spacing: 0.16em;
 		font-size: .8em;
+		//blue styling
+		color: rgb(0,51,160);
 	}
 
 	.school {
 		text-transform: none;
 		padding-top: 0.3em;
 		margin-bottom: 1em;
+		//blue styling
+		color: rgb(0,51,160);
 	}
 }
 
 .courses .course-number {
 	display: inline;
+	//blue styling
+	color: rgb(0,51,160);
 }
 .courses .course-name {
 	display: inline;
@@ -123,11 +158,14 @@
 
 .courses ul li{
   display: inline;
+  //blue styling
+  color: rgb(0,51,160);
 }
 
 .course-dot {
 	display: inline;
 	// display: none;
+	
 }
 
 @include breakpoint(small) {
