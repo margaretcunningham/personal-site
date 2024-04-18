@@ -1,6 +1,18 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'CatHacks X',
+    subtitle: 'Multiple Awards at ACM CatHacks Event',
+    link: 'https://devpost.com/software/dave-the-passive-medical-assistant',
+    image: '/images/projects/cathacksx.jpg',
+    date: '2023-04-13',
+    desc:
+      'Awarded 1st Place Overall and 2nd Place in Patient Safety at the ACM CatHacks X event, our project distinguished itself by its '
+      + 'technological innovation and comprehensive design. These awards recognized our solution\'s potential to address critical issues effectively '
+      + 'through advanced technology. The project’s success was attributed to its robust design, completion, and insightful learning components, '
+      + 'showcasing our commitment to developing practical and impactful technological solutions.',
+  },
+  {
     title: 'Papa Johns Machine Learning Model',
     subtitle: 'Senior Design Project',
     link: '', // TODO add link
