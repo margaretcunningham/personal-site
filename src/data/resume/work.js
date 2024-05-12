@@ -15,7 +15,7 @@ const work = [
   {
     name: 'IYKYKnow.ai',
     position: 'Technical Support / Junior Developer',
-    url: 'iykyknow.ai',
+    url: 'https://iykyknow.ai/',
     startDate: '2024-05',
     summary: 'As a Technical Support / Junior Developer at IYKYKnow.ai, I directly contribute to the growth and effectiveness of AI-driven operations in a dynamic, startup environment. My role is crucial in addressing complex technical issues and enhancing our software solutions.',
     highlights: [
