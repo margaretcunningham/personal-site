@@ -11,7 +11,7 @@ const Index = () => (
         </div>
       </header>
       <p>
-        Welcome to my personal website! I&apos;m John Marshall, a senior at the
+        Welcome to my personal website! I&apos;m John Marshall, a recent graduate of the
         University of Kentucky, deeply engaged in computer science and engineering.
         This site is a digital portfolio showcasing my journey and skills through
         my <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,
