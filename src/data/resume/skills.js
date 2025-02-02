@@ -1,26 +1,46 @@
 const skills = [
   {
     title: 'Python',
+    competency: 4,
+    category: ['Programming Languages', 'Proficient'],
+  },
+  {
+    title: 'Ruby',
+    competency: 5,
+    category: ['Programming Languages', 'Proficient'],
+  },
+  {
+    title: 'GitHub',
+    competency: 4,
+    category: ['Technologies'],
+  },
+  {
+    title: 'Jira',
+    competency: 5,
+    category: ['Technologies'],
+  },
+  {
+    title: 'Linux/Unix',
+    competency: 5,
+    category: ['Technologies'],
+  },
+  {
+    title: 'Visual Studio Code',
+    competency: 5,
+    category: ['Technologies'],
+  },
+  {
+    title: 'Perl',
     competency: 5,
     category: ['Programming Languages', 'Proficient'],
   },
   {
     title: 'C++',
-    competency: 5,
+    competency: 4,
     category: ['Programming Languages', 'Proficient'],
   },
   {
     title: 'C',
-    competency: 3,
-    category: ['Programming Languages', 'Prior Experience'],
-  },
-  {
-    title: 'Java',
-    competency: 3,
-    category: ['Programming Languages', 'Prior Experience'],
-  },
-  {
-    title: 'Assembly',
     competency: 3,
     category: ['Programming Languages', 'Prior Experience'],
   },
@@ -30,62 +50,27 @@ const skills = [
     category: ['Programming Languages', 'Prior Experience'],
   },
   {
-    title: 'Verilog',
+    title: 'SystemVerilog',
     competency: 3,
     category: ['Programming Languages', 'Prior Experience'],
   },
   {
-    title: 'SQL',
-    competency: 3,
-    category: ['Programming Languages', 'Prior Experience'],
-  },
-  {
-    title: 'Ruby',
-    competency: 3,
-    category: ['Programming Languages', 'Prior Experience'],
-  },
-  {
-    title: 'GitHub',
-    competency: 4,
-    category: ['Technologies'],
-  },
-  {
-    title: 'Jira',
-    competency: 4,
-    category: ['Technologies'],
-  },
-  {
-    title: 'Linux/Unix',
-    competency: 4,
-    category: ['Technologies'],
-  },
-  {
-    title: 'Wireshark',
-    competency: 4,
-    category: ['Technologies'],
-  },
-  {
-    title: 'Visual Studio Code',
-    competency: 4,
+    title: 'Figma',
+    competency: 2,
     category: ['Technologies'],
   },
   {
     title: 'CLion',
-    competency: 4,
+    competency: 3,
     category: ['Technologies'],
   },
   {
     title: 'PyCharm',
-    competency: 4,
+    competency: 3,
     category: ['Technologies'],
   },
   {
     title: 'VIM',
-    competency: 4,
-    category: ['Technologies'],
-  },
-  {
-    title: 'OpenCV',
     competency: 4,
     category: ['Technologies'],
   },

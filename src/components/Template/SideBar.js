@@ -12,18 +12,23 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>John Marshall</h2>
-        <p><a href="mailto:johnwayne100301@gmail.com">johnwayne100301@gmail.com</a></p>
+        <h2>Margaret Cunningham</h2>
+        <p><a href="mailto:mec.cunningham2@gmail.com">mec.cunningham2@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m John Marshall, a recent graduate of the
+      <p>Hi, I&apos;m Margaret Cunningham, a graduate of the
         <a href="https://www.uky.edu/"> University of Kentucky </a>
-        with dual B.S. degrees in Computer Science and Computer Engineering,
-        skilled in Python, C++, and several other programming languages,
-        with a strong foundation in mathematics and diverse technical projects.
+        with a B.S. degree in Computer Science and a minor in Math.
+        I have experience in Ruby, Perl, and other programming languages,
+        with a strong background in developing and maintaining tools for
+        verification engineering. I enjoy identifying bottlenecks and
+        optimizing performance because I care deeply about user experience.
+        I&apos;m also fascinated by how psychology and art can be integrated into
+        coding, which has led me to explore UI/UX design and how it connects
+        to these interests.
       </p>
       <ul className="actions">
         <li>

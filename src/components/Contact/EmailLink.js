@@ -24,7 +24,7 @@ const EmailLink = ({ email }) => {
 };
 
 EmailLink.defaultProps = {
-  email: 'johnwayne100301@gmail.com',
+  email: 'mec.cunningham2@gmail.com',
 };
 
 EmailLink.propTypes = {

@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://johnwaynemarshall.github.io/personal-site/",
+  "homepage": "https://margaretcunningham.github.io/personal-site/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://johnwaynemarshall.github.io/personal-site.git"
+    "url": "https://margaretcunningham.github.io/personal-site.git"
   },
   "engines": {
     "node": ">=16.x"
